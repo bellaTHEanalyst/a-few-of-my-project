@@ -6,4 +6,4 @@ Hi, I'm isabella! A maternal and child health care advocate with a vision to hel
  This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
  
  # Table of contents
- about
+ 
