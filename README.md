@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Isabella!   
+Hi, I'm Isabella!  An attentive data analyst offering sharp time management, organizational and assistance skills. I a maternal and  child health care advocate with a vision to help develop systems that can protect and improve the health of African women of reproductive age, infants, children ,adolescents and their well being , to help detect "high risk" cases and special attention through data analysis and visualization in order to  foresee complications and prevent them and reduce maternal and child mortality and morbidity rates. A personable individual willing to work hard and take on any task and a maternal and child health care enthusiast and an informative speaker who is detail-oriented.  
 <!-- Achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory.](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)     -->
 
 <!-- My article on Habr on matching two open data datasets with help of Machine Learning --->       -->
