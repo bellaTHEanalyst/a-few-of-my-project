@@ -78,7 +78,7 @@ The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/b
 **Results:** making conclusion and giving recommendations for follow-up actions.      . 
 
 ### practice of self breast examination Analysis
-<!-- **Code:** [`ya_ad_int_solution.ipynb `](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_solution.ipynb)     -->
+**Code:** [`practice of self breast examination.md `]( https://github.com/bellaTHEanalyst/female-Health/blob/8bcb96e35ffa3d3e2666378eebb379a02029756a/README.md)    
 <!-- **Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf)     -->
 **Description:**A client final year project analysis.A research on knowledge and practice of self-breast examination among the students of school of nursing lagos university teaching hospital, Idi-Aba Mushin, lagos    
 **Skills:**data collection, data cleaning, visualizing results, drawing conclusions and making recommendations.    
