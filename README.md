@@ -49,7 +49,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### flavours of cocoa Analysis
-**Code:** [`flavours_of_cocoa_analysis.xlsx`](https://github.com/bellaTHEanalyst/Excel-Projects/blob/26867416f602a04b95af8193eaba3d5bb3c86652/flavors_of_cacao.xlsx)    
+**File:** [`flavours_of_cocoa_analysis.xlsx`](https://github.com/bellaTHEanalyst/Excel-Projects/blob/26867416f602a04b95af8193eaba3d5bb3c86652/flavors_of_cacao.xlsx)    
 **Description:**Chocolate flavours dataset which contains 1796 rows and 10 colums as of 16,January 2023. There is a list of cocoa rating system,REF,bar name,review date,cocoa percent,company location,rating,bean type and broad bean origin.These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society. For up-to-date information, as well as additional content (including interviews with craft chocolate makers), please see his website:  http://flavorsofcacao.com/index.html
 Dataset was dowloaded from :
 https://www.kaggle.com/
@@ -60,7 +60,7 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Results:** a dashboard crated to answer business questions and data-based business recommendations.  
 
 ### Bike sales Data Analysis
-**Code:** [`Bike-sales-data-analysis.xlzx`](https://github.com/bellaTHEanalyst/Excel-Projects/blob/261712b94c18f50fcf94d52c981ce6850c66f127/bike%20sales%20report%20analysis.xlsx)    
+**File:** [`Bike-sales-data-analysis.xlzx`](https://github.com/bellaTHEanalyst/Excel-Projects/blob/261712b94c18f50fcf94d52c981ce6850c66f127/bike%20sales%20report%20analysis.xlsx)    
 <!-- **Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)    -->
 **Description:** A bike sales dataset which contains 1001 rows and 13 colums.It has a record of customers (ID,marital status,gender,income,number of children,education,occupation,car,home owners,commute,age,region and bike purchased.
 The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/659bf2a03970ecf0d9b110541576c13e4f4e32f8/Excel%20Project%20Dataset.xlsx 
@@ -70,7 +70,7 @@ The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/b
 **Results:** a dynamic dashboard was created to answer business question 
 
 ### Nigeria crime statistics for 2017
-**Code:** [`Nigeria crime statistics.pbix`](  https://github.com/bellaTHEanalyst/powerBi-projects/blob/main/nigeria%20crime%20statistics%202017.pbix)    
+**File:** [`Nigeria crime statistics.pbix`](  https://github.com/bellaTHEanalyst/powerBi-projects/blob/main/nigeria%20crime%20statistics%202017.pbix)    
 <!-- **Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)     -->
 **Description:** A visualization of nigeria crime statistics for 2017. Dataset was given to me by my tutor.     
 **Skills:** data cleaning, data anomalies detection and data visualization
@@ -78,20 +78,23 @@ The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/b
 **Results:** making conclusion and giving recommendations for follow-up actions.      . 
 
 ### practice of self breast examination Analysis
-**Code:** [`practice of self breast examination.md `]( https://github.com/bellaTHEanalyst/female-Health/blob/8bcb96e35ffa3d3e2666378eebb379a02029756a/README.md)    
+**File:** [`practice of self breast examination.md `]( https://github.com/bellaTHEanalyst/female-Health/blob/8bcb96e35ffa3d3e2666378eebb379a02029756a/README.md)    
 <!-- **Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf)     -->
 **Description:**A client final year project analysis.A research on knowledge and practice of self-breast examination among the students of school of nursing lagos university teaching hospital, Idi-Aba Mushin, lagos    
 **Skills:**data collection, data cleaning, visualizing results, drawing conclusions and making recommendations.    
 **Technology:** excel,spss,msword     
 **Results:**   drawing conclusions and  making recommendations on how to improve based on how to improve self breast examination practice among females. 
 
-### Airbnb Listings Analytics 
-**Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/nktn.lx/viz/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1)    
-**Dashboard canvas:** [`dashboard_canvas.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/32_airbnb_listings/dashboard_canvas.pdf)   
-**Description:** Tableau Public dashboard consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighborhood, occupation rate and a number of reviews per the last twelve month.    
-**Skills:** interview with a customer, requirements capture, designing an analytical dashboard, product delivery.    
-**Technology:** Tableau.    
-**Results:** created an analytical dashboard to support daily activities of a company involved in apartments renting business. 
+### tata sales report
+<!-- **Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/nktn.lx/viz/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1)     -->
+**File:** [`forage Task.pbix`]( https://github.com/bellaTHEanalyst/powerBi-projects/blob/main/forage%20task3%20tata.mostrecent.pbix)   
+**Description:** PowerBI dashboard consisted of: sales revenue trends,top countries which have opportunities for growth are performing,visuals for the ceo and cmo to make business decisions and insights on sales.Dataset from forage.
+**Skills:**data cleaning and transformation and  presentation of my findings,designing a dashboard   
+**Technology:** powerBi.    
+**Results:** created a dashboard to show revenue trends and activities of a company
+
+###  presentation of sales report
+**presentation canvas:** [`salesreport.]
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
