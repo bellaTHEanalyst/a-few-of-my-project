@@ -26,10 +26,10 @@ This repository serves as a showcase of my skills, a platform to share my projec
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [flavors of cacao analysis](#flavors_of_cacao)
+	+ [flavors of cacao analysis](#flavors-of-cacao)
 	+ [bike sales data Analysis](#bike-sales-data-analysis)
-	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
-	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
+	+ [ Nigeria crime statistics for 2017 ](#Nigeria-crime-statistics-for-2017)
+	+ [market sales Analysis](#market-sales-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)  
 	+ [sklearn ML course](#sklearn-ml-course)
