@@ -7,7 +7,7 @@ Achieved the 7th place at the open Data Analyst 2021 competition held by [Career
 
 My article on Habr on matching two open data datasets with help of Machine Learning ---> [ENG](https://ai.plainenglish.io/unlocking-the-potential-of-open-data-how-to-make-it-work-for-you-a01f7ac1f19) | [RUS](https://habr.com/ru/company/tochka/blog/699490/)     
 
-<!-- My Data Analytics blog on [Medium](https://medium.com/@nktn.lx) -->
+My Data Analytics blog on [Medium](https://medium.com/@nktn.lx)
 
 My CV in [pdf](https://github.com/nktnlx/data_analysis_portfolio/blob/main/aleksandr_nikitin_data_analyst_cv_eng.pdf) 
 
