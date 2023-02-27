@@ -5,7 +5,7 @@
 Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Department, and CTO in a technological startup. After a year of transitioning from geoscience to Data Analysis, I am currently a Data Analyst at a Fintech company, starting from June 2021.      
 Achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory.](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
 
-My article on Habr on matching two open data datasets with help of Machine Learning ---> [ENG](https://ai.plainenglish.io/unlocking-the-potential-of-open-data-how-to-make-it-work-for-you-a01f7ac1f19) | [RUS](https://habr.com/ru/company/tochka/blog/699490/)     
+<!-- My article on Habr on matching two open data datasets with help of Machine Learning ---> [ENG](https://ai.plainenglish.io/unlocking-the-potential-of-open-data-how-to-make-it-work-for-you-a01f7ac1f19) | [RUS](https://habr.com/ru/company/tochka/blog/699490/)      -->
 
 <!-- My Data Analytics blog on [Medium](https://medium.com/@nktn.lx) -->
 
