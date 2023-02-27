@@ -30,7 +30,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 	+ [bike sales data Analysis](#bike-sales-data-analysis)
 	+ [ Nigeria crime statistics for 2017 ](#Nigeria-crime-statistics-for-2017)
 	+ [market sales Analysis](#market-sales-analysis)
-	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
+	<!-- + [Airbnb Listings Analytics](#airbnb-listings-analytics -->
 - [Study Projects](#study-projects)  
 	+ [forage virtual data analyst internship](#forage-virtual-data-analyst-internship)
 	+ [tata sales report ](#tata-sales-report)
@@ -48,12 +48,15 @@ This repository serves as a showcase of my skills, a platform to share my projec
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Video Games Sales Analysis
+### flavours of cocoa Analysis
 **Code:** [`flavours_of_cocoa_analysis.xlsx`](https://github.com/bellaTHEanalyst/Excel-Projects/blob/26867416f602a04b95af8193eaba3d5bb3c86652/flavors_of_cacao.xlsx)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+**Description:** The dataset  was gotten from kaggle,about chocolate flavours dataset which contains 1796 rows and 10 colums as of 16,January 2023. There is a list of cocoa rating system,REF,bar name,review date,cocoa percent,company location,rating,bean type and broad bean origin.These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society. For up-to-date information, as well as additional content (including interviews with craft chocolate makers), please see his website:  http://flavorsofcacao.com/index.html
+Dataset was dowloaded from :
+https://www.kaggle.com/
+The project includes the following steps: data loading, data cleaning and preprocessing, checking for duplicates,grading the ratings to fit the rating syaytem.  
+**Skills:** data cleaning, data analysis,and data visualization.  
+**Technology:** Excel.  
+**Results:** a dashboard crated to answer business questions and data-based business recommendations.  
 
 ### A Mobile Game Data Analysis
 **Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
