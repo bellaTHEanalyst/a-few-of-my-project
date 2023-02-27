@@ -60,7 +60,7 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Results:** a dashboard crated to answer business questions and data-based business recommendations.  
 
 ### Bike sales Data Analysis
-**Code:** [`Bike-sales-data-analysis.xlzx`]( https://github.com/bellaTHEanalyst/Excel-Projects/blob/26867416f602a04b95af8193eaba3d5bb3c86652/alex%20the%20analyst%20excel%20project.xlsx)    
+**Code:** [`Bike-sales-data-analysis.xlzx`](https://github.com/bellaTHEanalyst/Excel-Projects/blob/261712b94c18f50fcf94d52c981ce6850c66f127/bike%20sales%20report%20analysis.xlsx)    
 <!-- **Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)    -->
 **Description:** A bike sales dataset which contains 1001 rows and 13 colums.It has a record of customers (ID,marital status,gender,income,number of children,education,occupation,car,home owners,commute,age,region and bike purchased.
 The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/659bf2a03970ecf0d9b110541576c13e4f4e32f8/Excel%20Project%20Dataset.xlsx 
