@@ -30,7 +30,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 	+ [bike sales data Analysis](#bike-sales-data-analysis)
 	+ [ Nigeria crime statistics for 2017 ](#Nigeria-crime-statistics-for-2017)
 	+ [market sales Analysis](#market-sales-analysis)
-	<!-- + [Airbnb Listings Analytics](#airbnb-listings-analytics -->
+	+ [practice of self-breast examination](#practice-of-self-breast-examination)
 - [Study Projects](#study-projects)  
 	+ [forage virtual data analyst internship](#forage-virtual-data-analyst-internship)
 	+ [tata sales report ](#tata-sales-report)
@@ -54,6 +54,7 @@ In this section I will list data analytics projects briefly describing the techn
 Dataset was dowloaded from :
 https://www.kaggle.com/
 The project includes the following steps: data loading, data cleaning and preprocessing, checking for duplicates,grading the ratings to fit the rating syaytem.  
+
 **Skills:** data cleaning, data analysis,detecting data anomalies and data visualization.  
 **Technology:** Excel and pivot table
 **Results:** a dashboard crated to answer business questions and data-based business recommendations.  
@@ -68,21 +69,21 @@ The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/b
 **Technology:**  Excel and pivot table    
 **Results:** a dynamic dashboard was created to answer business question 
 
-### A Landing Page Design Experiment
-**Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)    
-**Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)    
-**Description:** My solution to an open Data Analyst competition held by [Карьерный Цех](https://careerfactory.ru/). The solution took the 7th place in the competition (≈100 solutions were submitted by participants).     
-**Skills:** evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, calculating conversion rate, calculating bounce rate, log-scale transformations, Shapiro–Wilk test of distribution normality, A/B-tests (proportions z-test, Mann–Whitney rank test), plotting results, making conclusion and giving recommendations for follow-up actions.      
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.   
-**Results:** A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve. 
+### Nigeria crime statistics for 2017
+<!-- **Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)     -->
+<!-- **Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)     -->
+**Description:** A visualization of nigeria crime statistics for 2017. Dataset was given to me by my tutor.     
+**Skills:** data cleaning, data anomalies detection and data visualization
+**Technology:** powerBI   
+**Results:** making conclusion and giving recommendations for follow-up actions.      . 
 
-### Online Advertising Campaign Analysis
-**Code:** [`ya_ad_int_solution.ipynb `](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_solution.ipynb)    
-**Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf)    
-**Description:** My submission to Yandex Advertising Analytics internship program.    
-**Skills:** data cleaning, CTR, CPC, CPA and CR calculation, comparing metrics with competitors, visualizing results, drawing conclusions.    
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.     
-**Results:** the slide deck with online advertising campaign analysis and recommendations on how to improve based on the service category. 
+### practice of self breast examination Analysis
+<!-- **Code:** [`ya_ad_int_solution.ipynb `](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_solution.ipynb)     -->
+<!-- **Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf)     -->
+**Description:**A client final year project analysis.A research on knowledge and practice of self-breast examination among the students of school of nursing lagos university teaching hospital, Idi-Aba Mushin, lagos    
+**Skills:**data collection, data cleaning, visualizing results, drawing conclusions and making recommendations.    
+**Technology:** excel,spss,msword     
+**Results:**   drawing conclusions and  making recommendations on how to improve based on how to improve self breast examination practice among females. 
 
 ### Airbnb Listings Analytics 
 **Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/nktn.lx/viz/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1)    
