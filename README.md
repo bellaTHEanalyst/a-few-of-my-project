@@ -3,7 +3,7 @@
 ## About
 
 Hi, I'm Isabella!   
-Achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory.](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
+<!-- Achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory.](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)     -->
 
 <!-- My article on Habr on matching two open data datasets with help of Machine Learning --->       -->
 
