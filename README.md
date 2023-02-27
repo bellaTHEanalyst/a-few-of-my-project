@@ -50,21 +50,21 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### flavours of cocoa Analysis
 **Code:** [`flavours_of_cocoa_analysis.xlsx`](https://github.com/bellaTHEanalyst/Excel-Projects/blob/26867416f602a04b95af8193eaba3d5bb3c86652/flavors_of_cacao.xlsx)    
-**Description:** The dataset  was gotten from kaggle,about chocolate flavours dataset which contains 1796 rows and 10 colums as of 16,January 2023. There is a list of cocoa rating system,REF,bar name,review date,cocoa percent,company location,rating,bean type and broad bean origin.These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society. For up-to-date information, as well as additional content (including interviews with craft chocolate makers), please see his website:  http://flavorsofcacao.com/index.html
+**Description:**Chocolate flavours dataset which contains 1796 rows and 10 colums as of 16,January 2023. There is a list of cocoa rating system,REF,bar name,review date,cocoa percent,company location,rating,bean type and broad bean origin.These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society. For up-to-date information, as well as additional content (including interviews with craft chocolate makers), please see his website:  http://flavorsofcacao.com/index.html
 Dataset was dowloaded from :
 https://www.kaggle.com/
 The project includes the following steps: data loading, data cleaning and preprocessing, checking for duplicates,grading the ratings to fit the rating syaytem.  
-**Skills:** data cleaning, data analysis,and data visualization.  
-**Technology:** Excel.  
+**Skills:** data cleaning, data analysis,detecting data anomalies and data visualization.  
+**Technology:** Excel and pivot table
 **Results:** a dashboard crated to answer business questions and data-based business recommendations.  
 
-### A Mobile Game Data Analysis
-**Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
-**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
-**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.    
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
-**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
+### Bike sales Data Analysis
+**Code:** [`Bike-sales-data-analysis.xlzx`]( https://github.com/bellaTHEanalyst/Excel-Projects/blob/26867416f602a04b95af8193eaba3d5bb3c86652/alex%20the%20analyst%20excel%20project.xlsx)    
+<!-- **Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)    -->
+**Description:** A bike sales dataset which contains 1001 rows and 13 colums.It has a record of customers (ID,marital status,gender,income,number of children,education,occupation,car,home owners,commute,age,region and bike purchased.The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/659bf2a03970ecf0d9b110541576c13e4f4e32f8/Excel%20Project%20Dataset.xlsx 
+**Skills:** data cleaning, detecting data anomalies,  data visualization .    
+**Technology:**  Excel and pivot table    
+**Results:** a dynamic dashboard was created to answer business question 
 
 ### A Landing Page Design Experiment
 **Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)    
