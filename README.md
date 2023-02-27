@@ -70,7 +70,7 @@ The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/b
 **Results:** a dynamic dashboard was created to answer business question 
 
 ### Nigeria crime statistics for 2017
-**Code:** [`Nigeria crime statistics.pbix`]( https://github.com/bellaTHEanalyst/powerBi-projects/blob/787eeceb31f2a0792021eabae79bec23bfebb11d/my%20power%20bi%20dashboard.pbix)    
+**Code:** [`Nigeria crime statistics.pbix`](  https://github.com/bellaTHEanalyst/powerBi-projects/blob/main/nigeria%20crime%20statistics%202017.pbix)    
 <!-- **Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)     -->
 **Description:** A visualization of nigeria crime statistics for 2017. Dataset was given to me by my tutor.     
 **Skills:** data cleaning, data anomalies detection and data visualization
