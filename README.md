@@ -179,11 +179,11 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 <!-- - [Teamlead 101](https://drive.google.com/file/d/1-12jUVj8OcLlTQ3147syWIP4nf9a2n9P/view?usp=sharing) (Jul 2022) (Stratoplan Management School) -->
 - [data analytics internship]( https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_2w6ysXEF46STmy3BS_1674488286607_completion_certificate.pdf) (Jan 2023) (Forage)
 - [data analytics internship](https://certificate.terrahq.co/92108MSRNQDYRL105) (Dec 2022) (side hustle)
--   [google data analytics course 4:Analyze data to answer questions ]( https://coursera.org/share/861f993adfcef19c2734e7c195256542) (feb 2023) (Coursera)
--  [google data analytics course 3:Process data from dirty to clean ](https://coursera.org/share/a583d49f413ccfe0c8b0f9d73a2d22bd) (feb 2023) (Coursera)
-- [google data analytics course 2:Ask questions to make data driven decisions ]( https://coursera.org/share/bf65879f9903ec009f9d29eeb8f84d0f) (Dec 2022) (Coursera)
-- [google data analytics course 1:Foundations:data data everywhere ]( https://coursera.org/share/ad236815542ae87e1f673fa8dfaa501f) (Dec 2022) (Coursera)
-- [Beginners course in data analysics]( https://certificates.dataleum.com/wp-content/uploads/2022/09/Isabella-Martins.png) (september 2022) (Dataleum)
+-   [google data analytics course 4:Analyze data to answer questions ](https://www.coursera.org/account/accomplishments/certificate/UYEPT8TQ3WSG) (feb 2023) (Coursera)
+-  [google data analytics course 3:Process data from dirty to clean ](https://www.coursera.org/account/accomplishments/certificate/94WG84KSV38V) (feb 2023) (Coursera)
+- [google data analytics course 2:Ask questions to make data driven decisions ]( https://www.coursera.org/account/accomplishments/certificate/RCBJXKKJVNEA) (Dec 2022) (Coursera)
+- [google data analytics course 1:Foundations:data data everywhere ]( https://www.coursera.org/account/accomplishments/certificate/CGJ4DRRRD9ZE) (Dec 2022) (Coursera)
+- [Beginners course in data analysics](https://www.coursera.org/account/accomplishments/certificate/CGJ4DRRRD9ZE) (september 2022) (Dataleum)
 <!-- - [Data Analyst Professional Development Training](https://drive.google.com/file/d/1NqtzP6P5nLn5oSOYNRdq-wZBv6FoheJu/view?usp=sharing) (Mar 2021) (Yandex Praktikum & University 20.35) -->
 <!-- - [Data Literacy Certificate](https://drive.google.com/file/d/1zuPfb6Cp3yritjC-fXwOKNXb_FVoHwBp/view?usp=sharing) (Mar 2021) (Qlik Q, accenture, Data Yoga) -->
 <!-- - [New Features in Python 3.9 course](https://realpython.com/certificates/4becca93-d978-4e96-8c24-5afe861b3ad2/) (Jan 2021) (RealPython) -->
