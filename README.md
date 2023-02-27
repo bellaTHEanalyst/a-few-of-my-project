@@ -2,7 +2,8 @@
 
 ## About
 
-Hi, I'm Isabella!  An attentive data analyst offering sharp time management, organizational and assistance skills. I a maternal and  child health care advocate with a vision to help develop systems that can protect and improve the health of African women of reproductive age, infants, children ,adolescents and their well being , to help detect "high risk" cases and special attention through data analysis and visualization in order to  foresee complications and prevent them and reduce maternal and child mortality and morbidity rates. A personable individual willing to work hard and take on any task and a maternal and child health care enthusiast and an informative speaker who is detail-oriented.  
+Hi, I'm Isabella!  An attentive data analyst offering sharp time management, organizational and assistance skills.I am proficient in powerBI, Excel,  and Sql, Although i am a undergraduate with a social science background, I am passionate about business growth and I have a vision to help develop systems that can protect and improve the health of African women of reproductive age, infants, children ,adolescents and their well being , to help detect "high risk" cases and special attention through data analysis and visualization in order to foresee complications and prevent them and reduce maternal and child mortality and morbidity rates.
+  
 <!-- Achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory.](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)     -->
 
 <!-- My article on Habr on matching two open data datasets with help of Machine Learning --->       -->
@@ -14,13 +15,19 @@ My CV in [doc]( https://docs.google.com/document/d/1qs_rELi6t4FRPkldRO2Yq2MA3hU4
 <br>
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
 <br>
+
+👀 I’m interested in an internship role with a company which needs my skills in data analytics as well as my passion for solving problems.
+
+💞️ I’m looking to collaborate on projects on Data analytics
+
+📫 Reach me on martinnzbella@gmail.com
   
 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [flavors_of_cacao](#https://github.com/bellaTHEanalyst/Excel-Projects/blob/main/flavors_of_cacao.xlsx)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
+	+ [flavors of cacao analysis](#flavors_of_cacao)
+	+ [bike sales data Analysis](#bike-sales-data-analysis)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
