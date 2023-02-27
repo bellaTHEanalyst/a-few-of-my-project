@@ -20,28 +20,28 @@ This repository serves as a showcase of my skills, a platform to share my projec
 
 💞️ I’m looking to collaborate on projects on Data analytics
 
-📫 Reach me on martinnzbella@gmail.com
+📫 Reach me on martinzbella@gmail.com
   
 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [flavors of cacao analysis](#flavors-of-cacao)
+	+ [flavors of cocoa analysis](#flavors-of-cacao)
 	+ [bike sales data Analysis](#bike-sales-data-analysis)
 	+ [ Nigeria crime statistics for 2017 ](#Nigeria-crime-statistics-for-2017)
 	+ [market sales Analysis](#market-sales-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)  
-	+ [sklearn ML course](#sklearn-ml-course)
-	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
+	+ [forage virtual data analyst internship](#forage-virtual-data-analyst-internship)
+	+ [tata sales report ](#tata-sales-report)
 	+ [Data Analysis Course](#data-analyst-specialization)
-	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
+	+ [google analytics Course Coursera](#google-analytics-course-coursera)
 	+ [Learning SQL](#learning-sql)
-	+ [Python Developer Track](#python-developer-track)
-	+ [Computer Science Career Path](#computer-science-career-path)
-	+ [Google Python Class](#google-python-class)
-	+ [Side Projects](#side-projects)
-	+ [Tableau Vizzes](#tableau-vizzes)
+	+ [Hackersrank SQL task](#hackers-rank-SQL-task)
+	<!-- + [Computer Science Career Path](#computer-science-career-path) -->
+	+ [Alex the analyst Youtube classes](#alex-the-analyst-class)
+	<!-- + [Side Projects](#side-projects) -->
+	+ [powerBI Vizzes](#powerBI-vizzes)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -49,7 +49,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Video Games Sales Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
+**Code:** [`flavours_of_cocoa_analysis.xlsx`](https://github.com/bellaTHEanalyst/Excel-Projects/blob/26867416f602a04b95af8193eaba3d5bb3c86652/flavors_of_cacao.xlsx)    
 **Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
