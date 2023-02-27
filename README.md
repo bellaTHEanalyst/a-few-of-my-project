@@ -19,7 +19,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [https://github.com/bellaTHEanalyst/Excel-Projects/blob/26867416f602a04b95af8193eaba3d5bb3c86652/flavors_of_cacao.xlsx](#flavors-of-cacao-analysis)
+	+ [flavors_of_cacao.xlsx](#flavors-of-cacao-analysis)
 	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
