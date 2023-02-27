@@ -9,7 +9,7 @@ My article on Habr on matching two open data datasets with help of Machine Learn
 
 <!-- My Data Analytics blog on [Medium](https://medium.com/@nktn.lx) -->
 
-My CV in [pdf](https://github.com/nktnlx/data_analysis_portfolio/blob/main/aleksandr_nikitin_data_analyst_cv_eng.pdf) 
+My CV in [pdf]( https://docs.google.com/document/d/1qs_rELi6t4FRPkldRO2Yq2MA3hU4q98B/edit?usp=sharing&ouid=109075674425913798588&rtpof=true&sd=true) 
 
 <br>
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
