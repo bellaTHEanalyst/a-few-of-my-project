@@ -80,8 +80,7 @@ The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/b
 **Technology:** excel,spss,msword     
 **Results:**   drawing conclusions and  making recommendations on how to improve based on how to improve self breast examination practice among females. 
 
-### tata sales report
-<!-- **Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/nktn.lx/viz/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1)     -->
+### tata sales report 
 **File:** [`forage Task.pbix`]( https://github.com/bellaTHEanalyst/powerBi-projects/blob/main/forage%20task3%20tata.mostrecent.pbix)   
 **Description:** PowerBI dashboard consisted of: sales revenue trends,top countries which have opportunities for growth are performing,visuals for the ceo and cmo to make business decisions and insights on sales.Dataset from forage.
 **Skills:**data cleaning and transformation and  presentation of my findings,designing a dashboard   
