@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Isabella!  An attentive data analyst offering sharp time management, organizational and assistance skills.I am proficient in powerBI, Excel,  and Sql, Although i am a undergraduate with a social science background, I am passionate about business growth and I have a vision to help develop systems that can protect and improve the health of African women of reproductive age, infants, children ,adolescents and their well being , to help detect "high risk" cases and special attention through data analysis and visualization in order to foresee complications and prevent them and reduce maternal and child mortality and morbidity rates.
+Hi, I'm Isabella!  An attentive data analyst offering sharp time management, organizational and assistance skills.I am proficient in powerBI, Excel,  and  currently learning Sql and robotics process automation, Although i am a undergraduate with a social science background, I am passionate about business growth and I have a vision to help develop systems that can protect and improve the health of African women of reproductive age, infants, children ,adolescents and their well being , to help detect "high risk" cases and special attention through data analysis and visualization in order to foresee complications and prevent them and reduce maternal and child mortality and morbidity rates.
   
 <!-- Achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory.](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)     -->
 
