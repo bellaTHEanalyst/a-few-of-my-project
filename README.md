@@ -24,12 +24,12 @@ This repository serves as a showcase of my skills, a platform to share my projec
 	+ [flavors of cocoa analysis](#flavors-of-cacao)
 	+ [bike sales data Analysis](#bike-sales-data-analysis)
 	+ [ Nigeria crime statistics for 2017 ](#Nigeria-crime-statistics-for-2017)
-	+ [market sales Analysis](#market-sales-analysis)
+	<!-- + [market sales Analysis](#market-sales-analysis) -->
 	+ [practice of self-breast examination](#practice-of-self-breast-examination)
 - [Study Projects](#study-projects)  
 	+ [forage virtual data analyst internship](#forage-virtual-data-analyst-internship)
-	<!-- + [tata sales report ](#tata-sales-report) -->
-	<!-- + [Data Analysis Course](#data-analyst-specialization) -->
+	+ [tata sales report ](#tata-sales-report)
+	+ [Data Analysis Course](#data-analyst-specialization)
 	+ [google data analytics Course Coursera](#google-data-analytics-course-coursera)
 	<!-- + [Learning SQL](#learning-sql) -->
 	+ [Hackersrank SQL task](#hackers-rank-SQL-task)
