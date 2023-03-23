@@ -68,16 +68,21 @@ The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/b
 **File:** [`Nigeria crime statistics.pbix`](https://github.com/bellaTHEanalyst/Power-Bi-report-of-Nigerian-crime-statistics-2017)    
 <!-- **Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)     -->
 **Description:** A visualization of nigeria crime statistics for 2017. Dataset was given to me by my tutor.     
+
 **Skills:** data cleaning, data anomalies detection and data visualization
-**Technology:** powerBI   
+**Technology:** powerBI  
+
 **Results:** making conclusion and giving recommendations for follow-up actions.      . 
 
 ### practice of self breast examination Analysis
 **File:** [`practice of self breast examination.md `](https://github.com/bellaTHEanalyst/school-project-chapter-4-analysis-of-data-and-chapter-5-)    
 <!-- **Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf)     -->
 **Description:**A client final year project analysis.A research on knowledge and practice of self-breast examination among the students of school of nursing lagos university teaching hospital, Idi-Aba Mushin, lagos    
+
 **Skills:**data collection, data cleaning, visualizing results, drawing conclusions and making recommendations.    
-**Technology:** excel,spss,msword     
+
+**Technology:** excel,spss,msword  
+
 **Results:**   drawing conclusions and  making recommendations on how to improve based on how to improve self breast examination practice among females. 
 
 ### tata sales report 
@@ -90,13 +95,17 @@ The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/b
 ###  presentation of sales report
 **presentation canvas:** [`salesreport.pptx](https://github.com/bellaTHEanalyst/My-task-on-Forage-as-a-Virtual-Intern/blob/main/Presentation%20forage.pptx)
 **Description:** powerpoint presentation of revenue performance and customers performance from the tata sales report.
+
 **Skills:** prestntation, drawing conclusions and recommendations 
+
 **Technology:**powerBI and Powerpoint
 
 ###   weather quality analysis
-**presentation canvas:** [`salesreport.pptx](https://github.com/bellaTHEanalyst/powerbi-report-weather-quality-analysis-)
+**presentation canvas:** [`weather quality report.pptx](https://github.com/bellaTHEanalyst/powerbi-report-weather-quality-analysis-)
 **Description:** This project is about a company in the environmental consulting industry that is seeking to analyze the air quality in a specific city during hot and cold weather, during high-wind conditions in air quality, analyze and derive insights to help make recommendations to give the government and business in the region on how to mitigate the impact of weather conditions on air quality.
+
 **Skills:** Power Query,Dax,Modeling,conclusions and recommendations 
+
 **Technology:**powerBI and powerQuery
 
 
