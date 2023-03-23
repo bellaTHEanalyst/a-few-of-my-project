@@ -5,7 +5,7 @@
 Hi, I'm Isabella!  An attentive data analyst offering sharp time management, organizational and assistance skills.I am proficient in powerBI, Excel,  and  currently learning Sql and robotics process automation, Although i am a undergraduate with a social science background, I am passionate about business growth and I have a vision to help develop systems that can protect and improve the health of African women of reproductive age, infants, children ,adolescents and their well being , to help detect "high risk" cases and special attention through data analysis and visualization in order to foresee complications and prevent them and reduce maternal and child mortality and morbidity rates.
   
 
-My CV in [doc]( https://docs.google.com/document/d/1qs_rELi6t4FRPkldRO2Yq2MA3hU4q98B/edit?usp=sharing&ouid=109075674425913798588&rtpof=true&sd=true) 
+My CV in [doc](https://docs.google.com/document/d/1tW7ABHxfwCuojjndbdsn0s98oLxuleOb/edit?usp=sharing&ouid=109075674425913798588&rtpof=true&sd=true) 
 
 <br>
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
