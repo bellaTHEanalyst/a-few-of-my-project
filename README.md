@@ -23,10 +23,10 @@ This repository serves as a showcase of my skills, a platform to share my projec
 - [Portfolio Projects](#portfolio-projects)
 	+ [Nigeria crime statistics for 2017](#Nigeria-crime-statistics-for-2017)
 	+ [weather quality analysis](#weather-quality-analysis)
-	+ [Nigeria Economy analysis 2001 -2020](#Nigeria-Economy-analysis-2001 -2020)
+	+ [Nigeria Economy analysis 2001 -2020](#Nigeria-Economy-analysis-2001-2020)
 	+ [practice of self-breast examination](#practice-of-self-breast-examination)
 	+ [flavors of cocoa analysis](#flavors-of-cacao)
-	+ [bike sales data Analysis](#bike-sales-data-analysis
+	+ [bike sales data Analysis](#bike-sales-data-analysis)
 - [Study Projects](#study-projects)  
 	+ [forage virtual data analyst internship](#forage-virtual-data-analyst-internship)
 	+ [tata sales report ](#tata-sales-report)
