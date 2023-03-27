@@ -21,8 +21,9 @@ This repository serves as a showcase of my skills, a platform to share my projec
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [ Nigeria crime statistics for 2017 ](#Nigeria-crime-statistics-for-2017)
+	+ [Nigeria crime statistics for 2017](#Nigeria-crime-statistics-for-2017)
 	+ [weather quality analysis](#weather-quality-analysis)
+	+ [Nigeria Economy analysis 2001 -2020](#Nigeria-Economy-analysis-2001 -2020)
 	+ [practice of self-breast examination](#practice-of-self-breast-examination)
 	+ [flavors of cocoa analysis](#flavors-of-cacao)
 	+ [bike sales data Analysis](#bike-sales-data-analysis
@@ -60,23 +61,41 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Description:** A bike sales dataset which contains 1001 rows and 13 colums.It has a record of customers (ID,marital status,gender,income,number of children,education,occupation,car,home owners,commute,age,region and bike purchased.
 The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/659bf2a03970ecf0d9b110541576c13e4f4e32f8/Excel%20Project%20Dataset.xlsx 
 
-**Skills:** data cleaning, detecting data anomalies,  data visualization .    
+**Skills:** data cleaning, detecting data anomalies,  data visualization . 
+
 **Technology:**  Excel and pivot table    
+
 **Results:** a dynamic dashboard was created to answer business question 
 
 ### Nigeria crime statistics for 2017
+
 **File:** [`Nigeria crime statistics.pbix`](https://github.com/bellaTHEanalyst/Power-Bi-report-of-Nigerian-crime-statistics-2017)    
-<!-- **Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)     -->
+ 
 **Description:** A visualization of nigeria crime statistics for 2017. Dataset was given to me by my tutor.     
 
 **Skills:** data cleaning, data anomalies detection and data visualization
+
 **Technology:** powerBI  
 
 **Results:** making conclusion and giving recommendations for follow-up actions.      . 
 
+
+### Nigeria Economy Analysis from 2001 -2020
+
+**File:** [`NIgeria economy analysis.pbix`](https://github.com/bellaTHEanalyst/Nigeria-Economy-Analysis-2001-2020-PowerBi-report-)
+
+**Description:** A visualization of nigeria crime economy analysis from 2001-2020. Dataset was given to me by a friend as he already cleaned and transformed the data.     
+
+**Skills:** data visualization and data storytelling
+
+**Technology:** powerBI  
+
+**Results:** spotting trends and explaining each visual
+
+
 ### practice of self breast examination Analysis
 **File:** [`practice of self breast examination.md `](https://github.com/bellaTHEanalyst/school-project-chapter-4-analysis-of-data-and-chapter-5-)    
-<!-- **Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf)     -->
+ 
 **Description:**A client final year project analysis.A research on knowledge and practice of self-breast examination among the students of school of nursing lagos university teaching hospital, Idi-Aba Mushin, lagos    
 
 **Skills:**data collection, data cleaning, visualizing results, drawing conclusions and making recommendations.    
@@ -133,8 +152,8 @@ Analyze Data to Answer Questions
 Share Data Through the Art of Visualization
 Data Analysis with R Programming
 Data Analytics Capstone Project: Complete a Case Study
-**Repository:** The course has not been completed as i am not done with the course so  the repository is still under development.   ---> 
-<!-- [go to repo..](https://github.com/nktnlx/cs_path_codecademy)   -->
+**Repository:** The course has not been completed as i am not done with the course so  the repository is still under development.   
+ 
 **Status:** in view (please, check the certificates section below).  
 
 ### HackersRank Sql Task
