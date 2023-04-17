@@ -46,7 +46,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### TMNT sales Analysis. Excel project
-**File:** [`TMNT_sales_analysis.xlsx`](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project)    
+**File:** [`TMNT_sales_analysis.EXCEL-project`](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project)    
 **Description:** sales dataset which contains 4 sheets(sales table,product,sales team and store location.  
 This project is to display my data cleaning, transformation, modeling, and visualization skill using Excel. This is an Excel project on sales analysis of an imaginary store called TMNT Stores.
 Disclaimer: All datasets and reports do not represent any company, institution, or country, but are just dummy datasets to demonstrate my capabilities in Excel.
