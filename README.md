@@ -24,6 +24,7 @@ This repository serves as a showcase of my skills, a platform to share my projec
 	+ [Nigeria crime statistics for 2017](#Nigeria-crime-statistics-for-2017)
 	+ [weather quality analysis](#weather-quality-analysis)
 	+ [Nigeria Economy analysis 2001 -2020](#Nigeria-Economy-analysis-2001-2020)
+	+ [TMNT sales analysis](#TMNT-sales-analysis)
 	+ [practice of self-breast examination](#practice-of-self-breast-examination)
 	+ [flavors of cocoa analysis](#flavors-of-cacao)
 	+ [bike sales data Analysis](#bike-sales-data-analysis)
@@ -43,6 +44,20 @@ This repository serves as a showcase of my skills, a platform to share my projec
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### TMNT sales Analysis. Excel project
+**File:** [`TMNT_sales_analysis.xlsx`](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project)    
+**Description:** sales dataset which contains 4 sheets(sales table,product,sales team and store location.  
+This project is to display my data cleaning, transformation, modeling, and visualization skill using Excel. This is an Excel project on sales analysis of an imaginary store called TMNT Stores.
+Disclaimer: All datasets and reports do not represent any company, institution, or country, but are just dummy datasets to demonstrate my capabilities in Excel.
+
+Dataset was dowloaded from : A friend
+
+The project includes the following steps: data loading, data cleaning and preprocessing, addition on columns,creating relationships  between tables,creating pivot tables and dashboard.
+
+**Skills:** data cleaning, data analysis,data modelling and data visualization.  
+**Technology:** Excel and pivot table
+**Results:** a dashboard crated to answer business questions and data-based business recommendations.
 
 ### flavours of cocoa Analysis
 **File:** [`flavours_of_cocoa_analysis.xlsx`](https://github.com/bellaTHEanalyst/Excel-Projects/blob/26867416f602a04b95af8193eaba3d5bb3c86652/flavors_of_cacao.xlsx)    
