@@ -54,6 +54,16 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Technology:** Excel and pivot table
 **Results:** a dashboard crated to answer business questions and data-based business recommendations.  
 
+###  TMNT retail sales Analysis from Jan-May 2020
+Introduction
+**File:** [`tmnt_retail_sales_analysis.xlsx`](https://github.com/bellaTHEanalyst/TMNT-sales-analysis.EXCEL-project)    
+**Description:** This project is to display my data cleaning, transformation, modeling, and visualization skill using Excel. This is an Excel project on sales analysis of an imaginary store called TMNT Stores.
+Disclaimer: All datasets and reports do not represent any company, institution, or country, but are just dummy datasets to demonstrate my capabilities in Excel.
+Dataset was dowloaded from : A friend
+The project includes the following steps: data cleaning,transformation,modelling and visualization.   
+**Technology:** Excel,pivottables,pivot chart,creating relationships and pivot charts.
+**Results:** a dashboard crated to answer business questions and data-based business recommendations.  
+
 ### Bike sales Data Analysis
 **File:** [`Bike-sales-data-analysis.xlzx`](https://github.com/bellaTHEanalyst/Excel-Projects/blob/261712b94c18f50fcf94d52c981ce6850c66f127/bike%20sales%20report%20analysis.xlsx)    
 <!-- **Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)    -->
@@ -67,9 +77,19 @@ The data set was gotten from  https://github.com/AlexTheAnalyst/Excel-Tutorial/b
 ### Nigeria crime statistics for 2017
 **File:** [`Nigeria crime statistics.pbix`](https://github.com/bellaTHEanalyst/Power-Bi-report-of-Nigerian-crime-statistics-2017)    
 <!-- **Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)     -->
-**Description:** A visualization of nigeria crime statistics for 2017. Dataset was given to me by my tutor.     
-
+**Description:** A visualization of nigeria crime statistics for 2017. Dataset was given to me by my tutor.    
 **Skills:** data cleaning, data anomalies detection and data visualization
+**Technology:** powerBI  
+
+**Results:** making conclusion and giving recommendations for follow-up actions. 
+
+###  Nigeria Economy Analysis 2001-2020
+**File:** [`Nigeria Economy analysis.pbix`](https://github.com/bellaTHEanalyst/Nigeria-Economy-Analysis-2001-2020-PowerBi-report-)    
+<!-- **Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)     -->
+**Description:**  This is a data visualization project. I helped a friend create a powerBi report on Nigeria’s Economic data from 2001-2020 and make sense out of the visuals by interpreting each of them. This dataset was gotten from the world bank.
+
+**Skills:**  data visualization
+
 **Technology:** powerBI  
 
 **Results:** making conclusion and giving recommendations for follow-up actions.      . 
