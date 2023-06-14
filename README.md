@@ -8,6 +8,8 @@ I am proficient in a variety of data analysis tools and techniques, including:
 Programming: SQL
 Data transformation: PowerQuery/DAX/Excel
 Data visualization: Power BI/Excel
+
+
 I also have strong soft skills, including:
 
 Communication
