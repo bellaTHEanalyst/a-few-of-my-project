@@ -5,18 +5,25 @@
 
 I am proficient in a variety of data analysis tools and techniques, including:
 
-Programming: SQL
-Data transformation: PowerQuery/DAX/Excel
-Data visualization: Power BI/Excel
+- Programming: SQL
+
+- Data transformation: PowerQuery/DAX/Excel
+
+- Data visualization: Power BI/Excel
 
 
 I also have strong soft skills, including:
 
-Communication
-Problem-solving
-Teamwork
-Decision-making
-Time management
+- Communication
+
+- Problem-solving
+
+- Teamwork
+
+- Decision-making
+
+- Time management
+
 I am a firm believer in using data to address business problems and public health issues to make the world a better place.
 
 I would love to discuss how we can work together. Please reach out to me by email.
