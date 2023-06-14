@@ -1,8 +1,26 @@
  # Isabella Martins - Data Analysis Portfolio 
 
 ## About
+ Hi, I'm Isabella, a certified data analyst. I work remotely as a freelance data analyst. I am passionate about using data to make a positive impact on the world. I have a proven ability to collect, analyze, and interpret data to drive business insights.
 
-Hi, I'm Isabella!  An attentive data analyst offering sharp time management, organizational and assistance skills.I am proficient in powerBI, Excel,  and  currently learning Sql and robotics process automation, Although i am a undergraduate with a social science background, I am passionate about business growth and I have a vision to help develop systems that can protect and improve the health of African women of reproductive age, infants, children ,adolescents and their well being , to help detect "high risk" cases and special attention through data analysis and visualization in order to foresee complications and prevent them and reduce maternal and child mortality and morbidity rates.
+I am proficient in a variety of data analysis tools and techniques, including:
+
+Programming: SQL
+Data transformation: PowerQuery/DAX/Excel
+Data visualization: Power BI/Excel
+I also have strong soft skills, including:
+
+Communication
+Problem-solving
+Teamwork
+Decision-making
+Time management
+I am a firm believer in using data to address business problems and public health issues to make the world a better place.
+
+I would love to discuss how we can work together. Please reach out to me by email.
+
+Thanks,
+Isabella
   
 
 My CV in [doc](https://docs.google.com/document/d/1tW7ABHxfwCuojjndbdsn0s98oLxuleOb/edit?usp=sharing&ouid=109075674425913798588&rtpof=true&sd=true) 
