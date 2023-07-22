@@ -32,15 +32,12 @@ Thanks,
 Isabella
   
 
-My CV in [doc](https://docs.google.com/document/d/1tW7ABHxfwCuojjndbdsn0s98oLxuleOb/edit?usp=sharing&ouid=109075674425913798588&rtpof=true&sd=true) 
-
 <br>
 This repository serves as a showcase of my skills, a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
 <br>
 
-👀 I’m interested in an internship role with a company which needs my skills in data analytics as well as my passion for solving problems.
-
-💞️ I’m looking to collaborate on projects on Data analytics
+👀 I’m interested in an entry level role with a company which needs my skills in data analytics and business intelligence as well as my passion for solving problems.
+ 
 
 📫 Reach me on martinzbella@gmail.com
   
